@@ -1,2 +1,2 @@
-# Car-showroom.
-Car-showroom.
+# Car-showroom
+Car-showroom
